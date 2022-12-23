@@ -2,7 +2,7 @@ include "main.h"
 
 /**
 * string_toupper - changes all lowercas letters to uppercase
-*@str: string to be changed
+* @str: string to be changed
 * Return:
 * address tp the string
 */
